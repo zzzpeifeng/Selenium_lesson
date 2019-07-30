@@ -1,0 +1,13 @@
+2019-07-26 14:47:25,461 - selenium - INFO - 输入的内容selenium+python
+2019-07-26 14:47:27,461 - selenium - INFO - 暂停2秒
+2019-07-26 14:47:27,982 - selenium - INFO - 截图成功：F:\Selenium_lesson\testsuites\screenshots/201907261447.png
+2019-07-26 14:47:30,982 - selenium - INFO - 暂停3秒
+2019-07-26 14:47:30,987 - selenium - INFO - 当前窗口的title是selenium+python_百度搜索
+2019-07-26 14:47:30,989 - selenium - INFO - selenium+python_百度搜索
+2019-07-26 14:47:57,473 - selenium - INFO - 输入的内容selenium+python
+2019-07-26 14:47:59,474 - selenium - INFO - 暂停2秒
+2019-07-26 14:47:59,978 - selenium - INFO - 截图成功：F:\Selenium_lesson\testsuites\screenshots/201907261447.png
+2019-07-26 14:48:02,980 - selenium - INFO - 暂停3秒
+2019-07-26 14:48:02,986 - selenium - INFO - 当前窗口的title是selenium+python_百度搜索
+2019-07-26 14:48:02,986 - selenium - INFO - selenium+python_百度搜索
+2019-07-26 14:48:05,345 - selenium - INFO - 关闭浏览器

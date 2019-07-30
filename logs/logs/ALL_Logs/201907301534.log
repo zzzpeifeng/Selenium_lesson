@@ -1,0 +1,9 @@
+2019-07-30 15:34:33,799 - selenium - INFO - 读取浏览器配置
+2019-07-30 15:34:33,800 - selenium - INFO - 读取url：https://www.baidu.com
+2019-07-30 15:34:36,512 - selenium - INFO - 打开的浏览器为Chrome
+2019-07-30 15:34:38,413 - selenium - INFO - 浏览器最大化
+2019-07-30 15:34:38,416 - selenium - INFO - 设置静态等待时间10秒
+2019-07-30 15:34:40,184 - selenium - INFO - 输入的内容python
+2019-07-30 15:34:43,185 - selenium - INFO - 暂停3秒
+2019-07-30 15:34:46,765 - selenium - INFO - 暂停2秒
+2019-07-30 15:34:49,222 - selenium - INFO - 关闭浏览器

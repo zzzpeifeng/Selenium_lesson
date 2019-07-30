@@ -1,0 +1,7 @@
+2019-07-30 14:20:49,684 - selenium - INFO - 输入的内容selenium+python
+2019-07-30 14:20:51,688 - selenium - INFO - 暂停2秒
+2019-07-30 14:20:52,176 - selenium - INFO - 截图成功：F:\Selenium_lesson\testsuites\screenshots/201907301420.png
+2019-07-30 14:20:55,177 - selenium - INFO - 暂停3秒
+2019-07-30 14:20:55,177 - selenium - INFO - 当前窗口的title是selenium+python_百度搜索
+2019-07-30 14:20:55,177 - selenium - INFO - selenium+python_百度搜索
+2019-07-30 14:20:57,489 - selenium - INFO - 关闭浏览器

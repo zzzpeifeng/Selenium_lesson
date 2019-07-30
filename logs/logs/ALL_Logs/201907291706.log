@@ -1,0 +1,3 @@
+2019-07-29 17:06:18,552 - selenium - INFO - 读取浏览器配置
+2019-07-29 17:06:18,553 - selenium - INFO - 读取url：https://www.youdao.com
+2019-07-29 17:06:18,558 - selenium - ERROR - 浏览器打开报错

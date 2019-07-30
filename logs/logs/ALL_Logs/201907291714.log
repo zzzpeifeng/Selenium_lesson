@@ -1,0 +1,10 @@
+2019-07-29 17:14:16,314 - selenium - INFO - 读取浏览器配置
+2019-07-29 17:14:16,315 - selenium - INFO - 读取url：https://www.youdao.com
+2019-07-29 17:14:18,681 - selenium - INFO - 打开的浏览器为Chrome
+2019-07-29 17:14:21,428 - selenium - INFO - 浏览器最大化
+2019-07-29 17:14:21,431 - selenium - INFO - 设置静态等待时间10秒
+2019-07-29 17:14:39,022 - selenium - INFO - 读取浏览器配置
+2019-07-29 17:14:39,022 - selenium - INFO - 读取url：https://www.youdao.com
+2019-07-29 17:14:41,532 - selenium - INFO - 打开的浏览器为Chrome
+2019-07-29 17:14:44,088 - selenium - INFO - 浏览器最大化
+2019-07-29 17:14:44,091 - selenium - INFO - 设置静态等待时间10秒
